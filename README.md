@@ -1,0 +1,2 @@
+# Digital-Ghosting-Psychological-Stress--2210991457-2210991992-2210991893-2210991445-
+This research investigates Digital Ghosting as a clinical stressor in AI-mediated communication. It focuses on the technical analysis of user behavior patterns and the development of software to measure social rejection. The project quantifies the psychological impact of digital silence and evaluates AI-driven communication metrics.
